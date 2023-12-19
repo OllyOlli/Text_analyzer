@@ -1,8 +1,5 @@
 """
 projekt_1.py: první projekt do Engeto Online Python Akademie
-author: Olga H.
-email: Olcah@email.cz
-discord: Olly#1959
 
 Zadání:
 Vyžádá si od uživatele přihlašovací jméno a heslo,
